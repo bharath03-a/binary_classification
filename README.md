@@ -12,8 +12,6 @@ This repository focuses on predicting vehicle insurance response using machine l
 6. [Evaluation](#evaluation)
 7. [How to Use](#how-to-use)
 8. [Dependencies](#dependencies)
-9. [Contributing](#contributing)
-10. [License](#license)
 
 ## Introduction
 
@@ -82,3 +80,12 @@ Predictions for the test set were generated using the Logistic Regression model 
 1. Clone the repository:
    ```bash
    git clone https://github.com/bharath03-a/binary_classification
+
+## Dependencies
+- `numpy`
+- `pandas`
+- `matplotlib`
+- `seaborn`
+- `scikit-learn`
+- `imblearn`
+- `xgboost`
